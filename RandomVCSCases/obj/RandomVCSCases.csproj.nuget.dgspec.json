@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TestProjects\\RandomVCSCases\\RandomVCSCases\\RandomVCSCases.csproj": {}
+    "C:\\Users\\alexandra.kuks\\Source\\Repos\\RandomCases\\RandomVCSCases\\RandomVCSCases.csproj": {}
   },
   "projects": {
-    "C:\\TestProjects\\RandomVCSCases\\RandomVCSCases\\RandomVCSCases.csproj": {
+    "C:\\Users\\alexandra.kuks\\Source\\Repos\\RandomCases\\RandomVCSCases\\RandomVCSCases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TestProjects\\RandomVCSCases\\RandomVCSCases\\RandomVCSCases.csproj",
+        "projectUniqueName": "C:\\Users\\alexandra.kuks\\Source\\Repos\\RandomCases\\RandomVCSCases\\RandomVCSCases.csproj",
         "projectName": "RandomVCSCases",
-        "projectPath": "C:\\TestProjects\\RandomVCSCases\\RandomVCSCases\\RandomVCSCases.csproj",
+        "projectPath": "C:\\Users\\alexandra.kuks\\Source\\Repos\\RandomCases\\RandomVCSCases\\RandomVCSCases.csproj",
         "packagesPath": "C:\\Users\\alexandra.kuks\\.nuget\\packages\\",
-        "outputPath": "C:\\TestProjects\\RandomVCSCases\\RandomVCSCases\\obj\\",
+        "outputPath": "C:\\Users\\alexandra.kuks\\Source\\Repos\\RandomCases\\RandomVCSCases\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
