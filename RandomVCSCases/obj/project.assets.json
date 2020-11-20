@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexandra.kuks\\Source\\Repos\\RandomCases-2\\RandomVCSCases\\RandomVCSCases.csproj",
+      "projectUniqueName": "C:\\Users\\alexandra.kuks\\Source\\Repos\\RandomCases\\RandomVCSCases\\RandomVCSCases.csproj",
       "projectName": "RandomVCSCases",
-      "projectPath": "C:\\Users\\alexandra.kuks\\Source\\Repos\\RandomCases-2\\RandomVCSCases\\RandomVCSCases.csproj",
+      "projectPath": "C:\\Users\\alexandra.kuks\\Source\\Repos\\RandomCases\\RandomVCSCases\\RandomVCSCases.csproj",
       "packagesPath": "C:\\Users\\alexandra.kuks\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexandra.kuks\\Source\\Repos\\RandomCases-2\\RandomVCSCases\\obj\\",
+      "outputPath": "C:\\Users\\alexandra.kuks\\Source\\Repos\\RandomCases\\RandomVCSCases\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
